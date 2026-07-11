@@ -1,0 +1,7 @@
+s = input("Enter a string: ")
+ch = input("Enter a character: ")
+
+if ch in s:
+    print("Character found")
+else:
+    print("Character not found")
